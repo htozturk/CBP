@@ -6,4 +6,5 @@ The problem tools of the CBP benchmark suite are shared. You can use these tools
 Use the MAIN script to run the optimization and the DESIGN_VIEWER script to examine the design details.
 
 Reference Article
+
 Öztürk, H. T., (2024). Research on Optimal Solutions and Algorithm Stability Analyses in RC Continuous Beam Problems. Structures, (accepted).
